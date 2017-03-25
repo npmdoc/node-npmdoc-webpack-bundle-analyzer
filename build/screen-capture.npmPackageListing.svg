@@ -1,29 +1,30 @@
-<svg height="414" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="414" fill="#555" width="720"></rect>
+<svg height="430" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="430" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  1.  2017-03-21 17:06:49 +0000     2688 byte  CHANGELOG.md</tspan>
-<tspan x="10" y="42">  2.  2017-03-21 17:06:49 +0000     1093 byte  LICENSE</tspan>
-<tspan x="10" y="58">  3.  2017-03-21 17:06:49 +0000     3263 byte  README.md</tspan>
-<tspan x="10" y="74">  4.  2017-03-21 17:06:49 +0000     3532 byte  lib/BundleAnalyzerPlugin.js</tspan>
-<tspan x="10" y="90">  5.  2017-03-21 17:06:49 +0000     2077 byte  lib/Logger.js</tspan>
-<tspan x="10" y="106">  6.  2017-03-21 17:06:49 +0000     4967 byte  lib/analyzer.js</tspan>
-<tspan x="10" y="122">  7.  2017-03-21 17:06:49 +0000     2741 byte  lib/bin/analyzer.js</tspan>
-<tspan x="10" y="138">  8.  2017-03-21 17:06:49 +0000      175 byte  lib/index.js</tspan>
-<tspan x="10" y="154">  9.  2017-03-21 17:06:49 +0000     6225 byte  lib/parseUtils.js</tspan>
-<tspan x="10" y="170"> 10.  2017-03-21 17:06:49 +0000     7203 byte  lib/tree.js</tspan>
-<tspan x="10" y="186"> 11.  2017-03-21 17:06:49 +0000     3930 byte  lib/viewer.js</tspan>
-<tspan x="10" y="202"> 12.  2017-03-21 17:06:49 +0000     4267 byte  package.json</tspan>
-<tspan x="10" y="218"> 13.  2017-03-21 17:06:49 +0000   167088 byte  public/viewer.js</tspan>
-<tspan x="10" y="234"> 14.  2017-03-21 17:06:49 +0000   680297 byte  public/viewer.js.map</tspan>
-<tspan x="10" y="250"> 15.  2017-03-21 17:06:49 +0000     2573 byte  src/BundleAnalyzerPlugin.js</tspan>
-<tspan x="10" y="266"> 16.  2017-03-21 17:06:49 +0000      938 byte  src/Logger.js</tspan>
-<tspan x="10" y="282"> 17.  2017-03-21 17:06:49 +0000     4378 byte  src/analyzer.js</tspan>
-<tspan x="10" y="298"> 18.  2017-03-21 17:06:49 +0000     2582 byte  src/bin/analyzer.js</tspan>
-<tspan x="10" y="314"> 19.  2017-03-21 17:06:49 +0000      129 byte  src/index.js</tspan>
-<tspan x="10" y="330"> 20.  2017-03-21 17:06:49 +0000     6395 byte  src/parseUtils.js</tspan>
-<tspan x="10" y="346"> 21.  2017-03-21 17:06:49 +0000     4199 byte  src/tree.js</tspan>
-<tspan x="10" y="362"> 22.  2017-03-21 17:06:49 +0000     2963 byte  src/viewer.js</tspan>
-<tspan x="10" y="378"> 23.  2017-03-21 17:06:49 +0000      181 byte  views/script.ejs</tspan>
-<tspan x="10" y="394"> 24.  2017-03-21 17:06:49 +0000      367 byte  views/viewer.ejs</tspan>
+<tspan x="10" y="26">  1.  2017-03-25 12:55:18 +0000     2688 byte  CHANGELOG.md</tspan>
+<tspan x="10" y="42">  2.  2017-03-25 12:55:18 +0000     1093 byte  LICENSE</tspan>
+<tspan x="10" y="58">  3.  2017-03-25 12:55:18 +0000     3263 byte  README.md</tspan>
+<tspan x="10" y="74">  4.  2017-03-25 12:55:18 +0000     3532 byte  lib/BundleAnalyzerPlugin.js</tspan>
+<tspan x="10" y="90">  5.  2017-03-25 12:55:18 +0000     2077 byte  lib/Logger.js</tspan>
+<tspan x="10" y="106">  6.  2017-03-25 12:55:18 +0000     4967 byte  lib/analyzer.js</tspan>
+<tspan x="10" y="122">  7.  2017-03-25 12:55:18 +0000     2741 byte  lib/bin/analyzer.js</tspan>
+<tspan x="10" y="138">  8.  2017-03-25 12:55:18 +0000      175 byte  lib/index.js</tspan>
+<tspan x="10" y="154">  9.  2017-03-25 12:55:18 +0000     6225 byte  lib/parseUtils.js</tspan>
+<tspan x="10" y="170"> 10.  2017-03-25 12:55:18 +0000     7203 byte  lib/tree.js</tspan>
+<tspan x="10" y="186"> 11.  2017-03-25 12:55:18 +0000     3930 byte  lib/viewer.js</tspan>
+<tspan x="10" y="202"> 12.  2017-03-25 12:55:18 +0000     4267 byte  package.json</tspan>
+<tspan x="10" y="218"> 13.  2017-03-25 12:55:18 +0000   167088 byte  public/viewer.js</tspan>
+<tspan x="10" y="234"> 14.  2017-03-25 12:55:18 +0000   680297 byte  public/viewer.js.map</tspan>
+<tspan x="10" y="250"> 15.  2017-03-25 12:55:18 +0000     2573 byte  src/BundleAnalyzerPlugin.js</tspan>
+<tspan x="10" y="266"> 16.  2017-03-25 12:55:18 +0000      938 byte  src/Logger.js</tspan>
+<tspan x="10" y="282"> 17.  2017-03-25 12:55:18 +0000     4378 byte  src/analyzer.js</tspan>
+<tspan x="10" y="298"> 18.  2017-03-25 12:55:18 +0000     2582 byte  src/bin/analyzer.js</tspan>
+<tspan x="10" y="314"> 19.  2017-03-25 12:55:18 +0000      129 byte  src/index.js</tspan>
+<tspan x="10" y="330"> 20.  2017-03-25 12:55:18 +0000     6395 byte  src/parseUtils.js</tspan>
+<tspan x="10" y="346"> 21.  2017-03-25 12:55:18 +0000     4199 byte  src/tree.js</tspan>
+<tspan x="10" y="362"> 22.  2017-03-25 12:55:18 +0000     2963 byte  src/viewer.js</tspan>
+<tspan x="10" y="378"> 23.  2017-03-25 12:55:18 +0000      181 byte  views/script.ejs</tspan>
+<tspan x="10" y="394"> 24.  2017-03-25 12:55:18 +0000      367 byte  views/viewer.ejs</tspan>
+<tspan x="10" y="410"> 25.  2017-03-25 12:55:18 +0000   914251 byte  .</tspan>
 </text>
 </svg>

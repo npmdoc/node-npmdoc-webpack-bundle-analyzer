@@ -1,11 +1,13 @@
-# api documentation for  [webpack-bundle-analyzer (v2.3.1)](https://github.com/th0r/webpack-bundle-analyzer)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webpack-bundle-analyzer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webpack-bundle-analyzer)
+# api documentation for  [webpack-bundle-analyzer (v2.3.1)](https://github.com/th0r/webpack-bundle-analyzer)  [![npm package](https://img.shields.io/npm/v/npmdoc-webpack-bundle-analyzer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webpack-bundle-analyzer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webpack-bundle-analyzer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webpack-bundle-analyzer)
 #### Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 
 [![NPM](https://nodei.co/npm/webpack-bundle-analyzer.png?downloads=true)](https://www.npmjs.com/package/webpack-bundle-analyzer)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webpack-bundle-analyzer/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-webpack_bundle_analyzer_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webpack-bundle-analyzer/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webpack-bundle-analyzer/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-webpack-bundle-analyzer%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webpack-bundle-analyzer/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-webpack-bundle-analyzer/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-webpack-bundle-analyzer/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-webpack-bundle-analyzer/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
